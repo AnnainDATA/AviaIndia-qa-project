@@ -3,7 +3,7 @@
 Welcome to the **AviaIndia** project repository! 
 This project covers the full QA testing lifecycle for the flight ticket discount calculation logic for destinations in India and Asia.
 
-Here you will find technical specifications, test design techniques, test scenarios, and detailed test cases.
+Here you will find test design techniques, test scenarios, and detailed test cases.
 
 ---
 
